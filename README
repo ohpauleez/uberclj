@@ -1,13 +1,7 @@
-# uberclj
+This is the basic script/step to building uberclj.
 
-FIXME: write description
+If you want to build you're own, you'll need to format the uber_project.clj file, and remove the *pom/maven related jars from the list
 
-## Usage
-
-FIXME: write
-
-## License
-
-Copyright (C) 2012 FIXME
-
+Copyright (C) 2012 [http://www.pauldee.org/blog](Paul deGrandis)
 Distributed under the Eclipse Public License, the same as Clojure.
+
